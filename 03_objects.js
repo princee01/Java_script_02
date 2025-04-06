@@ -62,3 +62,5 @@ console.log(Jsuser.greeting);//[Function (anonymous)]
 console.log(Jsuser.greeting());//hello JS user
 console.log(Jsuser.greeting2());//hello JS user, prince
 
+//question:
+// create a symbol and use it in object ---->solved above 
