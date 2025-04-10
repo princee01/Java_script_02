@@ -36,7 +36,8 @@ function addone(num) {
     return num + 1;
 }
 
-
+//expression
+//in this case we can access this before declaration
 
 //expression
 console.log(addtwo(5));
