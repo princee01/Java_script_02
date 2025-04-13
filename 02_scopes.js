@@ -22,7 +22,7 @@ function one() {
         const website = "youtube";
         //console.log(username);
     }
-    //console.log(website);
+    //console.log(website);//it will give error bcz we are accessing it outside the scope.
     two();
 }
 one();
